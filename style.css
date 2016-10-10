@@ -1,0 +1,87 @@
+/*css home*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 20px
+}
+
+li a:hover {
+    background-color: #111;
+	
+}
+div
+{
+    border-radius: 5px;
+	background-color: #333;
+	height: 40px;
+	width: 150px;
+	margin: auto;
+	text-align: center; 
+	text-decoration: none; 
+	color: white; 
+} 
+span
+{
+    font-size: 30px;
+    text-decoration: none; 
+    color: #F8F8FF;
+    font-weight: bold; 
+    font-family: impact, sans-serif; 
+} 
+h1
+{ 
+    font-family: Georgia; }
+p
+{
+    font-size: 30px; 
+    text-align: center; 
+    color: 	#000000; 
+	text-decoration: none;
+}
+
+img
+{
+width: 180px;
+}
+#footer
+{
+font-size: 30px;
+width: 100%;
+position: fixed;
+left: 0;
+bottom: 0; 
+}
+
+#faces 
+{
+display: inline;
+}
+
+body
+{
+    background: url("IMG_1539.jpg");
+    background-size: 200%; 
+    background-repeat: no-repeat;
+}
+a 
+{ 
+color: white;  
+}
+
+/*fix about pg css*/	
+/*css gallery -- supposedly*/
