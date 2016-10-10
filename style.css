@@ -53,10 +53,14 @@ p
     color: 	#000000; 
 	text-decoration: none;
 }
+#about
+{
+margin-top: 100px;
+}
 
 img
 {
-width: 180px;
+width: 190px;
 }
 #footer
 {
@@ -71,12 +75,25 @@ bottom: 0;
 {
 display: inline;
 }
+#couples
+{
+display: inline; 
+}
+#friends
+{
+display: inline;
+}
+#clock
+{
+display: inline;
+margin-left: 50px;
+}
 
 body
 {
     background: url("IMG_1539.jpg");
-    background-size: 200%; 
-    background-repeat: no-repeat;
+    background-size: 400%; 
+	background-repeat: no-repeat;
 }
 a 
 { 
