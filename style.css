@@ -53,14 +53,21 @@ p
     color: 	#000000; 
 	text-decoration: none;
 }
-#about
-{
-margin-top: 100px;
-}
 
 img
 {
 width: 190px;
+}
+
+.home
+{
+font-family: courier new;  
+}
+
+.about
+{
+font-family: courier new; 
+margin: 200px; 
 }
 #footer
 {
@@ -70,7 +77,6 @@ position: fixed;
 left: 0;
 bottom: 0; 
 }
-
 #faces 
 {
 display: inline;
@@ -88,7 +94,10 @@ display: inline;
 display: inline;
 margin-left: 50px;
 }
-
+#location
+{
+margin-top: 250px;
+}
 body
 {
     background: url("IMG_1539.jpg");
@@ -100,5 +109,4 @@ a
 color: white;  
 }
 
-/*fix about pg css*/	
-/*css gallery -- supposedly*/
+
