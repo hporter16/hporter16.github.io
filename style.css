@@ -100,7 +100,8 @@ width: 240px;
 #home
 {
 display: inline;
-margin: auto;
+margin-left: auto;
+margin-right: auto;
 width: 250px;
 }
 #location
