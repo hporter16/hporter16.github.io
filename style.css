@@ -101,7 +101,7 @@ width: 240px;
 }
 #home
 {
-display: inline;
+display: block;
 margin-left: auto;
 margin-right: auto;
 width: 250px;
