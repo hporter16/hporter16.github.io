@@ -45,7 +45,13 @@ span
 } 
 h1
 { 
-    font-family: Georgia; }
+    font-size: 45px;
+	font-family: Georgia; 
+}
+h2 
+{
+font-size: 45px; 
+}
 p
 {
     font-size: 30px; 
